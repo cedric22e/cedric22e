@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am the desendant of a former president.
+- ⚡ Fun fact: I am a close desendant of former president Abrhaham Lincoln.
 
 <!---
 cedric22e/cedric22e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
